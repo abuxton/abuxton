@@ -1,6 +1,6 @@
 ### insert interesting banner here
 
-Coffee-addicted, professional consultant, with a background in solving other people's problems with them not for them, and teaching people how to adopt new technology, IaC, and DevOps from concepts to process. My life is a constant round of "could you, should you and would you?" it's like "kiss, marry, or avoid" technology-related products.  Believer in the https://wiki.c2.com/?ScottyFactor and advocate of https://dbad-license.org/ Open Source Solutions 
+Coffee-addicted, professional consultant, with a background in solving other people's problems with them not for them, and teaching people how to adopt new technology, IaC, and DevOps from concepts to process. My life is a constant round of "could you, should you and would you?" it's like "kiss, marry, or avoid" technology-related products.  Believer in the https://wiki.c2.com/?ScottyFactor and advocate of https://dbad-license.org/ Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well https://stackoverflow.com/help/how-to-ask ( AI sidekicks are the future... ) 
 
 # What is there to see? 
 
