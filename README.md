@@ -20,8 +20,7 @@ infuenced by https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694
 The whole internet is a highway of shared data, and original content or thought is hard to come by this profile with thanks to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and <https:/medium.com>.
 
 ### Badges are cool!
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Static Badge](https://img.shields.io/badge/badges_are_cool)
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 
 
