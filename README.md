@@ -18,14 +18,18 @@ infuenced by https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694
 The whole internet is a highway of shared data, and original content or thought is hard to come by this profile with thanks to https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 and <https:/medium.com>.
 
 ### Badges are cool!
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-A few things to read to understand my views of the world.
+![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Website](https://img.shields.io/website?url=github.io%2Fabuxton)
+ ![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)
+
+
+Here are a few things to read to understand my views of the world.
 
 * https://www.jrothman.com/mpd/management/2014/08/people-are-not-resources/ Why yes, this is a long-held belief.  
 * https://medium.com/notbinary/people-are-not-resources-13ac7a380f95 Just in case you thought it wasn't still a problem.
 * https://ipstenu.org/2011/the-scotty-principle/ Software and engineering people generally suck at Scoping time; if they applied the Scotty principle, they would be better and still not give themselves enough.
-* Devops the combination of responsibilities, capabilities and communication in your organisation. Both in a passive product or tools capability to both communicate and provide capabilities and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. https://www.astroarch.com/tvp_strategy/devops-engineer-25120/. 
+* Devops the combination of responsibilities, capabilities and communication in your organisation. Both in a passive product or tools capability to both communicate and provide capabilities and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. https://www.astroarch.com/tvp_strategy/devops-engineer-25120/.
+* https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah but also https://stackoverflow.com/help/how-to-ask
 
 
 
