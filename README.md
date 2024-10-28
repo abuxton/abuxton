@@ -30,6 +30,7 @@ Here are a few things to read to understand my views of the world.
 * https://ipstenu.org/2011/the-scotty-principle/ Software and engineering people generally suck at Scoping time; if they applied the Scotty principle, they would be better and still not give themselves enough.
 * Devops the combination of responsibilities, capabilities and communication in your organisation. Both in a passive product or tools capability to both communicate and provide capabilities and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. https://www.astroarch.com/tvp_strategy/devops-engineer-25120/.
 * https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah but also https://stackoverflow.com/help/how-to-ask
+* Automating things is hard it's not just about how, it's about should you, when should you and should you let the automation run https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/ this helps with that conversation.
 
 
 
