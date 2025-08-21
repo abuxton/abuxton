@@ -19,8 +19,9 @@ The whole internet is a highway of shared data, and original content or thought 
 
 ### Badges are cool!
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
- ![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)![GitHub followers](https://img.shields.io/github/followers/abuxton)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | ![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton) | ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)![GitHub followers](https://img.shields.io/github/followers/abuxton) | ![GitHub License](https://img.shields.io/github/license/abuxton/.github) | ![GitHub License](https://img.shields.io/github/license/abuxton/dbad)
+
+
 
 
 
