@@ -19,7 +19,7 @@ The whole internet is a highway of shared data, and original content or thought 
 
 ### Badges are cool!
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton)](https://forge.puppet.com/modules/abuxton) | [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)](https://www.reddit.com/user/adept2051/) | [![GitHub followers](https://img.shields.io/github/followers/abuxton)](https://github.com/abuxton) | [![GitHub License](https://img.shields.io/github/license/abuxton/.github)](https://github.com/abuxton/.github) | [![GitHub License](https://img.shields.io/github/license/abuxton/dbad)](https://github.com/abuxton/dbad)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton)](https://forge.puppet.com/modules/abuxton) | [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)](https://www.reddit.com/user/adept2051/) | [![GitHub followers](https://img.shields.io/github/followers/abuxton)]([https://github.com/abuxton](https://github.com/abuxton?tab=followers)) | [![GitHub License](https://img.shields.io/github/license/abuxton/.github)](https://github.com/abuxton/.github) | [![GitHub License](https://img.shields.io/github/license/abuxton/dbad)](https://github.com/abuxton/dbad)
 
 
 
