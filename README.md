@@ -1,6 +1,6 @@
 ### Insert Interesting Banner here!
 
-Coffee-addicted, professional consultant, with a background in solving other people's problems with them not for them, and teaching people how to adopt new technology, IaC, and DevOps from concepts to process. My life is a constant round of "could you, should you and would you?" it's like "kiss, marry, or avoid" but for technology-related products.  Believer in the https://wiki.c2.com/?ScottyFactor and advocate of https://dbad-license.org/ Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well https://stackoverflow.com/help/how-to-ask ( AI sidekicks are the future... ) 
+Coffee-addicted, professional consultant, with a background in solving other people's problems with them, not for them, and teaching people how to adopt new technology, IaC, and DevOps from concepts to process. My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the https://wiki.c2.com/?ScottyFactor and advocate of https://dbad-license.org/ Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well https://stackoverflow.com/help/how-to-ask ( AI sidekicks are the future... ) 
 
 ### My User Manual
 |   |   |   |   |
@@ -20,7 +20,7 @@ The whole internet is a highway of shared data, and original content or thought 
 ### Badges are cool!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
- ![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)![GitHub followers](https://img.shields.io/github/followers/:abuxton)
+ ![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)![GitHub followers](https://img.shields.io/github/followers/abuxton)
 
 
 
