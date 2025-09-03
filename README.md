@@ -15,7 +15,8 @@ influenced by <https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc6
 
 # What is there to see? 
 
-[![Abuxtons github stats](https://github-readme-stats.vercel.app/api?username=abuxton&show_icons=true)](https://github.com/abuxton) <!-- https://github.com/anuraghazra/github-readme-stats -->
+[![Abuxtons github stats](https://github-readme-stats.vercel.app/api?username=abuxton&show_icons=true)](https://github.com/abuxton) 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ### With thanks 
 The whole internet is a highway of shared data, and original content or thought is hard to come by, thanks to <https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7> and <https:/medium.com>.
@@ -23,10 +24,6 @@ The whole internet is a highway of shared data, and original content or thought 
 ### Badges are cool!
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) | [![Puppet Forge modules by user](https://img.shields.io/puppetforge/mc/abuxton)](https://forge.puppet.com/modules/abuxton) | [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/adept2051)](https://www.reddit.com/user/adept2051/) | [![GitHub followers](https://img.shields.io/github/followers/abuxton)]([https://github.com/abuxton](https://github.com/abuxton?tab=followers)) | [![GitHub License](https://img.shields.io/github/license/abuxton/.github)](https://github.com/abuxton/.github) | [![GitHub License](https://img.shields.io/github/license/abuxton/dbad)](https://github.com/abuxton/dbad)
-
-
-
-
 
 Here are a few things to read to understand my views of the world.
 
@@ -36,6 +33,3 @@ Here are a few things to read to understand my views of the world.
 * DevOps is the combination of Responsibilities, Capabilities and Communication in your organisation. Both in a passive product or tools, the capability to both communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. <https://www.astroarch.com/tvp_strategy/devops-engineer-25120/>.
 * <https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah> but also <https://stackoverflow.com/help/how-to-ask>
 * Automating things is hard, it's not just about how, it's about should you, when should you, and should you let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
-
-
-
