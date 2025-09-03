@@ -8,9 +8,7 @@ Coffee-addicted, professional consultant, with a background in solving other peo
 | Conditions I like to work in; | The times/hours I like to work;  | The ways I like to receive feedback;   | Things I need;  |
 |---|---|---|---|
 |  I am odd, I either like being at the front of a room with a whiteboard illustrating solutions and architecting plans, flows and concepts or in isolated environments,<br/>  if my headset is on, probably best to Slack me.   | <br/> - I'm an early bird, but I respect our global challenges.<br/> - You'll find me on Slack from 8 am, and still paying attention during most workday evenings.<br/> - Friday is sacred; don't push your luck.   | The best ways to communicate with me;<br/> - Slack for quick things.<br/> -  email for complex questions that need evidence and answers.<br/> - For your own safety, don't send me a screen grab when you can copy-paste an error message.  |   Honestly, directly, and with good communication. <br/> People generally suck at all three so that's a fun stance.  | 
-
-|| Things I struggle with; | Things I love; |Other things to know about me; |
-|---|---|---|---|
+|| **Things I struggle with;** | **Things I love;** | **Other things to know about me;** |
 |  I like to be involved, I like to see overcommunication about what is developing and ideas, I don't mind not being involved directly, but I hate things that creep out of the woodwork due to bad communication.| <br/> - Opinions with no basis, lack of evidence, and not understanding wider plans and processes. <br/> - Bad communicators, or a lack of communication.   |  Coffee, smiles, and natural fun interchanges while brainstorming.   |  <br/> - I'm Dyspraxic, and the later in the week it gets, the more people I've had to interact with, the closer I get to burnout and introversion.<br/> -  I call it people points, and they get used up.  |  
  
 influenced by <https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694> 
