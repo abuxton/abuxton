@@ -1,0 +1,33 @@
+{
+	"name": "digitaladept",
+	"version": "1.0.0",
+	"description": "My personalised calling card.",
+	"main": "./bin/card.js",
+	"bin": {
+		"digitaladept": "./bin/card.js"
+	},
+	"type": "module",
+	"scripts": {
+		"lint": "eslint bin/*.js art/*.js"
+	},
+	"keywords": [
+		"David",
+		"Neal",
+		"reverentgeek"
+	],
+	"author": "Adam Buxton <abcdevelopment.co.uk (https://blog.abcdevelopment.co.uk)",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/abuxton/abuxton"
+	},
+	"dependencies": {
+		"boxen": "^8.0.1",
+		"chalk": "^5.6.2",
+		"gradient-string": "^3.0.0"
+	},
+	"devDependencies": {
+		"eslint": "^9.36.0",
+		"eslint-config-reverentgeek": "^6.3.0"
+	}
+}
