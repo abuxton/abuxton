@@ -16,7 +16,7 @@ Clone this repo (or create a new one) and adjust the profile and art assets to b
 - Update colors or gradients by tweaking `bin/colors.js`, then reference any new styles by name from the profile file.
 - Swap ASCII art by editing the files under `art/` or adding new modules and registering them in `art/index.js`. The `artOrder` export in `config/profile.js` controls the render sequence.
 - Run `npm run lint` for style checks and `node bin/card.js` to preview the box output locally before publishing.
-- use `figlet -f rectangles  <yourhandle> >> art/banner.js` utilising [figlet](https://www.figlet.org/)` to update the `./art/banner.js` file.
+- Utilising [figlet](https://www.figlet.org/) update the `./art/banner.js`  file. example  `figlet -f rectangles  <yourhandle> >> art/banner.js`, then update the quote wrapping accordingly and validate with lint.
 
 Want to publish it so others can view it with `npx`?
 
