@@ -4,7 +4,7 @@ Coffee-addicted, professional consultant, with a background in solving other peo
 
 > "If I show up at your door, chances are you did something to bring me there.", "My psych profile fit a certain... 'moral flexibility' would be the only way to describe it."
 
-For contact information `npx digitaladept` and take a look at the Geek Card [README](./geek_card_README.md)
+For contact information `npx digitaladept` or take a look at the Geek Card [README](./geekcard/README.md)
 
 ### My User Manual
 
