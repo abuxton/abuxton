@@ -5,7 +5,7 @@ In case you ever need my information and all you have is a terminal and `npm`.
 ## Usage
 
 ```bash
-npx <yourname>
+npx digitaladept
 ```
 
 ## Make It Yours
