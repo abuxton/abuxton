@@ -1,5 +1,6 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node,vscode
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,vscode
+# Created by https://www.toptal.com/developers/gitignore/api/node,javascript,bash
+# Edit at https://www.toptal.com/developers/gitignore?templates=node,javascript,bash
+
 
 ### Node ###
 # Logs
@@ -141,6 +142,4 @@ dist
 # SvelteKit build / generate output
 .svelte-kit
 
-#!! ERROR: vscode is undefined. Use list command to see defined gitignore types !!#
-
-# End of https://www.toptal.com/developers/gitignore/api/node,vscode
+# End of https://www.toptal.com/developers/gitignore/api/node,javascript,bash
