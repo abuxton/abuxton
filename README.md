@@ -2,9 +2,9 @@
 
 Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). I'm a coffee-addicted professional consultant with a background in solving people's problems collaboratively, not for them. I also teach people how to adopt new technologies, including Infrastructure as Code (IaC) and Community and Culture-driven DevOps, from concepts to processes. My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( AI sidekicks (agents and MCP) are the future... )
 
-> "If I show up at your door, chances are you did something to bring me there.", "My psych profile fit a certain... 'moral flexibility' would be the only way to describe it."
-> "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve" <https://tolkiengateway.net/wiki/Bilbo%27s_birthday_speech>
-> "A man is not dead while his name is still spoken." <https://xclacksoverhead.org/home/about>
+> - "If I show up at your door, chances are you did something to bring me there.", "My psych profile fit a certain... 'moral flexibility' would be the only way to describe it."
+> - "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve" <https://tolkiengateway.net/wiki/Bilbo%27s_birthday_speech>
+> - "A man is not dead while his name is still spoken." <https://xclacksoverhead.org/home/about>
 
 For contact information, `npx digitaladept` or take a look at the Geek Card [README](./geekcard/README.md)
 
