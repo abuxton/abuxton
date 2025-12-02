@@ -11,10 +11,10 @@ Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢�
 |  I like to be involved, I like to see over communication about what is developing and ideas, I don't mind not being involved directly, but I hate things that creep out of the woodwork due to bad communication.| <br/> - Opinions with no basis, lack of evidence, and not understanding wider plans and processes. <br/> - Bad communicators, or a lack of communication.   |  Coffee, smiles, and natural fun interchanges while brainstorming.   |  <br/> - I'm Dyspraxic, and the later in the week it gets, the more people I've had to interact with, the closer I get to burnout and introversion.<br/> -  I call it people points, and they get used up.  |
 
 Influenced by <https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694>
-
+<!---
 ### What is there to see?
 
-[![Abuxton github stats](https://github-readme-stats.vercel.app/api?username=abuxton&show_icons=true)](https://github.com/abuxton)
+[![Abuxton github stats](https://github-readme-stats.vercel.app/api?username=abuxton&show_icons=true)](https://github.com/abuxton) -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 ### A little something!
@@ -41,6 +41,6 @@ Here are a few things to read to understand my views of the world.
 * Automating things is hard, it's not just about how, it's about should you, when should you, and should you let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
 * My "Ghost engineer" title, is a flagrant dig at the content of this [Tweet, on twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). All good engineers are Ghost Engineers no matter the industry, all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show and A.I will never be able to replace. Spend some time talking, showing, explaining, tutoring and continuing to learn the stats don't show all, they are not the be all and end all.
 
-### contact
+### Contact
 
 For contact information, `npx digitaladept` or take a look at the Geek Card [README](./geekcard/README.md)
