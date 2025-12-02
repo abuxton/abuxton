@@ -2,12 +2,6 @@
 
 Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). I'm a coffee-addicted professional consultant with a background in solving people's problems collaboratively, not for them. I also teach people how to adopt new technologies, including Infrastructure as Code (IaC) and Community and Culture-driven DevOps, from concepts to processes. My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( AI sidekicks (agents and MCP) are the future... )
 
-> - "If I show up at your door, chances are you did something to bring me there.", "My psych profile fit a certain... 'moral flexibility' would be the only way to describe it."
-> - "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve" <https://tolkiengateway.net/wiki/Bilbo%27s_birthday_speech>
-> - "A man is not dead while his name is still spoken." <https://xclacksoverhead.org/home/about>
-
-For contact information, `npx digitaladept` or take a look at the Geek Card [README](./geekcard/README.md)
-
 ### My User Manual
 
 | Conditions I like to work in; | The times/hours I like to work;  | The ways I like to receive feedback;   | Things I need;  |
@@ -18,10 +12,16 @@ For contact information, `npx digitaladept` or take a look at the Geek Card [REA
 
 Influenced by <https://cassierobinson.medium.com/a-user-manual-for-me-d3a851fbc694>
 
-## What is there to see?
+### What is there to see?
 
 [![Abuxton github stats](https://github-readme-stats.vercel.app/api?username=abuxton&show_icons=true)](https://github.com/abuxton)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+### A little something!
+
+> - "If I show up at your door, chances are you did something to bring me there.", "My psych profile fit a certain... 'moral flexibility' would be the only way to describe it."
+> - "I don't know half of you half as well as I should like; and I like less than half of you half as well as you deserve" <https://tolkiengateway.net/wiki/Bilbo%27s_birthday_speech>
+> - "A man is not dead while his name is still spoken." <https://xclacksoverhead.org/home/about>
 
 ### With thanks
 
@@ -40,3 +40,7 @@ Here are a few things to read to understand my views of the world.
 * <https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah> but also <https://stackoverflow.com/help/how-to-ask>
 * Automating things is hard, it's not just about how, it's about should you, when should you, and should you let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
 * My "Ghost engineer" title, is a flagrant dig at the content of this [Tweet, on twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). All good engineers are Ghost Engineers no matter the industry, all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show and A.I will never be able to replace. Spend some time talking, showing, explaining, tutoring and continuing to learn the stats don't show all, they are not the be all and end all.
+
+### contact
+
+For contact information, `npx digitaladept` or take a look at the Geek Card [README](./geekcard/README.md)
