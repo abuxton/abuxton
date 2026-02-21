@@ -1,6 +1,9 @@
 ### Insert Interesting Banner here!
 
-Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). I'm a coffee-addicted professional consultant with a background in solving people's problems collaboratively, not for them. I also teach people how to adopt new technologies, including Infrastructure as Code (IaC) and Community and Culture-driven DevOps, from concepts to processes. My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( AI sidekicks (agents and MCP) are the future... )
+Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). 
+
+I'm a coffee-addicted professional consultant with a background in solving people's problems collaboratively, not for them. I also teach people how to adopt new technologies, including but not limited to AI and Agentic workflows, Infrastructure as Code (IaC) and Community and Culture-driven DevOps, from concept, to implimentation and operations or process mapping.
+My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( AI sidekicks (agents and MCP) are the future... )
 
 ### My User Manual
 
@@ -39,7 +42,11 @@ Here are a few things to read to understand my views of the world.
 * DevOps is the combination of Responsibilities, Capabilities and Communication in your organisation. Both in a passive product or tools, the capability to both communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. <https://www.astroarch.com/tvp_strategy/devops-engineer-25120/>.
 * <https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah> but also <https://stackoverflow.com/help/how-to-ask>
 * Automating things is hard, it's not just about how, it's about should you, when should you, and should you let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
-* My "Ghost engineer" title, is a flagrant dig at the content of this [Tweet, on twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). All good engineers are Ghost Engineers no matter the industry, all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show and A.I will never be able to replace. Spend some time talking, showing, explaining, tutoring and continuing to learn the stats don't show all, they are not the be all and end all.
+
+> NOTE: My "Ghost engineer" title, is a flagrant dig at the content of this [Tweet, on twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). 
+> All good engineers are Ghost Engineers no matter the industry, all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show and A.I will never be able to replace. 
+> Spend some time talking, showing, explaining, tutoring and continuing to learn the stats don't show all, they are not the be all and end all.
+> This point as become even more important with the advances of AI and Spec driven Development with AI. Any one in tech looking at your commit history take a dive and panicing shouldn't be in tech.
 
 ### Contact
 
