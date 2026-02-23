@@ -39,7 +39,9 @@ Here are a few things to read to understand my views of the world.
 * <https://www.jrothman.com/mpd/management/2014/08/people-are-not-resources/> Why yes, this is a long-held belief.
 * <https://medium.com/notbinary/people-are-not-resources-13ac7a380f95> Just in case you thought it wasn't still a problem.
 * <https://ipstenu.org/2011/the-scotty-principle/> Software and engineering people generally suck at scoping time and level of effort; if we all applied the Scotty principle, we'd be better and still not give ourselves enough.
-* DevOps is the combination of Responsibilities, Capabilities and Communication in your organisation. Both in a passive product or tools, the capability to both communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. <https://www.astroarch.com/tvp_strategy/devops-engineer-25120/>.
+* DevOps is the combination of Responsibilities, Capabilities and Communication in your organisation. Both in a passive product or tools, the capability to both communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. 
+  * <https://www.astroarch.com/tvp_strategy/devops-engineer-25120/>. 
+  * <https://roadmap.sh/devops> honestly, don't be over whealmed read the footnotes they are has valuable as the mind map. 
 * <https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah> but also <https://stackoverflow.com/help/how-to-ask>
 * Automating things is hard, it's not just about how, it's about should you, when should you, and should you let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
 * I am always a fan of meaningful Toaism in the modern era and tenets of advice that stand the tests of our time.
