@@ -3,13 +3,13 @@
 Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). 
 
 I'm a coffee-addicted professional consultant with a background in solving people's problems collaboratively, not for them. I also teach people how to adopt new technologies, including but not limited to AI and Agentic workflows, Infrastructure as Code (IaC) and Community and Culture-driven DevOps, from concept, to implimentation and operations or process mapping.
-My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( AI sidekicks (agents and MCP) are the future... )
+My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( [AI sidekicks (agents and MCP) are the future...](https://github.com/abuxton/SKills)  )
 
 ### My User Manual
 
 | Conditions I like to work in; | The times/hours I like to work;  | The ways I like to receive feedback;   | Things I need;  |
 |---|---|---|---|
-|  I am odd, I either like being at the front of a room with a whiteboard illustrating solutions and architecting plans, flows and concepts or in isolated environments,<br/>  if my headset is on, probably best to Slack me.   | <br/> - I'm an early bird, but I respect our global challenges.<br/> - You'll find me on Slack from 8 am, and still paying attention during most workday evenings.<br/> - Friday is sacred; don't push your luck.   | The best ways to communicate with me;<br/> - Slack for quick things.<br/> -  email for complex questions that need evidence and answers.<br/> - For your own safety, don't send me a screen grab when you can copy-paste an error message.  |   Honestly, directly, and with good communication. <br/> People generally suck at all three so that's a fun stance.  |
+|  I am odd, I either like being at the front of a room with a whiteboard illustrating solutions and architecting plans, flows and concepts or in isolated environments,<br/>  if my headset is on, probably best to Slack me.   | <br/> - I'm an early bird, but I respect our global challenges.<br/> - You'll find me on Slack from 8 am, and still paying attention during most workday evenings.<br/> - Friday is sacred; don't push your luck.   | The best ways to communicate with me;<br/> - Slack for quick things.<br/> -  email for complex questions that need evidence and answers.<br/> - For your own safety, don't send me a screen grab when you can copy-paste an error message.  |   Honestly, directly, and with good communication. <br/> People generally suck at all three, so that's a fun stance.  |
 || **Things I struggle with;** | **Things I love;** | **Other things to know about me;** |
 |  I like to be involved, I like to see over communication about what is developing and ideas, I don't mind not being involved directly, but I hate things that creep out of the woodwork due to bad communication.| <br/> - Opinions with no basis, lack of evidence, and not understanding wider plans and processes. <br/> - Bad communicators, or a lack of communication.   |  Coffee, smiles, and natural fun interchanges while brainstorming.   |  <br/> - I'm Dyspraxic, and the later in the week it gets, the more people I've had to interact with, the closer I get to burnout and introversion.<br/> -  I call it people points, and they get used up.  |
 
@@ -39,18 +39,19 @@ Here are a few things to read to understand my views of the world.
 * <https://www.jrothman.com/mpd/management/2014/08/people-are-not-resources/> Why yes, this is a long-held belief.
 * <https://medium.com/notbinary/people-are-not-resources-13ac7a380f95> Just in case you thought it wasn't still a problem.
 * <https://ipstenu.org/2011/the-scotty-principle/> Software and engineering people generally suck at scoping time and level of effort; if we all applied the Scotty principle, we'd be better and still not give ourselves enough.
-* DevOps is the combination of Responsibilities, Capabilities and Communication in your organisation. Both in a passive product or tools, the capability to both communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities to provide the subset of those capabilities they are responsible for. 
+* DevOps is the combination of responsibilities, capabilities, and communication in your organisation. Both in passive products and tools, the capability to communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities for the subset of those capabilities they are responsible for. 
   * <https://www.astroarch.com/tvp_strategy/devops-engineer-25120/>. 
-  * <https://roadmap.sh/devops> honestly, don't be over whealmed read the footnotes they are has valuable as the mind map. 
+  * <https://roadmap.sh/devops> honestly, don't be overwhelmed, read the footnotes, they are as valuable as the mind map. 
 * <https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah> but also <https://stackoverflow.com/help/how-to-ask>
-* Automating things is hard, it's not just about how, it's about should you, when should you, and should you let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
-* I am always a fan of meaningful Toaism in the modern era and tenets of advice that stand the tests of our time.
+* Automating things is hard; it's not just about how, it's about when and whether you should let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
+  * `[npx skills install abuxton/skills](https://github.com/abuxton/Skills/tree/main/skills/do-nothing-scripting) `
+* I am always a fan of meaningful Taoism in the modern era and tenets of advice that stand the test of our time.
   * <https://github.com/DavidBrightSparc/Tenets-of-IT>
 
-> NOTE: My "Ghost engineer" title, is a flagrant dig at the content of this [Tweet, on twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). 
-> All good engineers are Ghost Engineers no matter the industry, all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show and A.I will never be able to replace. 
-> Spend some time talking, showing, explaining, tutoring and continuing to learn the stats don't show all, they are not the be all and end all.
-> This point as become even more important with the advances of AI and Spec driven Development with AI. Any one in tech looking at your commit history take a dive and panicing shouldn't be in tech.
+> NOTE: My "Ghost engineer" title is a flagrant dig at the content of this [Tweet, on Twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). 
+> All good engineers are Ghost Engineers, no matter the industry; all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show, and A.I. will never be able to replace. 
+> Spend some time talking, showing, explaining, tutoring and continuing to learn. The stats don't show all; they are not the be-all and end-all.
+> This point has become even more important with the advances of AI and Spec-driven Development with AI. Anyone in tech looking at your commit history, taking a dive, and panicking shouldn't be in tech.
 
 ### Contact
 
