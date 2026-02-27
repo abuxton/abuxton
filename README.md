@@ -44,7 +44,7 @@ Here are a few things to read to understand my views of the world.
   * <https://roadmap.sh/devops> honestly, don't be overwhelmed, read the footnotes, they are as valuable as the mind map. 
 * <https://dev.to/dvddpl/make-mistakes-and-ask-questions-its-ok-gah> but also <https://stackoverflow.com/help/how-to-ask>
 * Automating things is hard; it's not just about how, it's about when and whether you should let the automation run <https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/> This helps with that conversation.
-  * `[npx skills install abuxton/skills](https://github.com/abuxton/Skills/tree/main/skills/do-nothing-scripting) `
+  * [npx skills install abuxton/skills](https://github.com/abuxton/Skills/tree/main/skills/do-nothing-scripting)
 * I am always a fan of meaningful Taoism in the modern era and tenets of advice that stand the test of our time.
   * <https://github.com/DavidBrightSparc/Tenets-of-IT>
 
