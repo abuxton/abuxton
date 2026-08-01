@@ -36,8 +36,8 @@ The whole internet is a highway of shared data, and original content or thought 
 
 Here are a few things to read to understand my views of the world.
 
-* <https://www.jrothman.com/mpd/management/2014/08/people-are-not-resources/> Why yes, this is a long-held belief.
-* <https://medium.com/notbinary/people-are-not-resources-13ac7a380f95> Just in case you thought it wasn't still a problem.
+* My blog on what ever has taken a moment to plant a seed in my mind lately <https://blog.abcdevelopment.co.uk/>
+* MY blog on Table Top Gaming (TTRPG) and related musings <https://redcirclegames.co.uk>. Everyone needs a hobby. 
 * <https://ipstenu.org/2011/the-scotty-principle/> Software and engineering people generally suck at scoping time and level of effort; if we all applied the Scotty principle, we'd be better and still not give ourselves enough.
 * DevOps is the combination of responsibilities, capabilities, and communication in your organisation. Both in passive products and tools, the capability to communicate and provide capabilities, and a person's active role in providing capabilities and communicating their responsibilities for the subset of those capabilities they are responsible for. 
   * <https://www.astroarch.com/tvp_strategy/devops-engineer-25120/>. 
@@ -47,6 +47,9 @@ Here are a few things to read to understand my views of the world.
   * [npx skills install abuxton/skills](https://github.com/abuxton/Skills/tree/main/skills/do-nothing-scripting)
 * I am always a fan of meaningful Taoism in the modern era and tenets of advice that stand the test of our time.
   * <https://github.com/DavidBrightSparc/Tenets-of-IT>
+* I have one corporate bugbear, especially it seems as it's become pervasive language in the US tech market when talking about staff and people. 
+  * <https://www.jrothman.com/mpd/management/2014/08/people-are-not-resources/> Why yes, this is a long-held belief.
+  * <https://medium.com/notbinary/people-are-not-resources-13ac7a380f95> Just in case you thought it wasn't still a problem.
 
 > NOTE: My "Ghost engineer" title is a flagrant dig at the content of this [Tweet, on Twitter ( never X )](https://x.com/yegordb/status/1859290734257635439), the discussion on [Reddit](https://www.reddit.com/r/theprimeagen/comments/1gzky88/95_of_software_engineers_do_virtually_nothing). 
 > All good engineers are Ghost Engineers, no matter the industry; all engineers in a DevOps organisation should be Ghost Engineers at some point in their day. Ghost Engineering is the component that stats can't show, and A.I. will never be able to replace. 
