@@ -1,4 +1,4 @@
-### Insert Interesting Banner here!
+### Insert an Interesting Banner here!
 
 Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). 
 
