@@ -3,7 +3,9 @@
 Welcome! (i mirëpritur; welkom; bienvenue; benvenuto; witamy; bienvenidos; 欢迎 أهلا بك; ようこそ; 환영; chào mừng; soo dhawow; karibu; Taŋyáŋ yahípi). 
 
 I'm a coffee-addicted professional consultant with a background in solving people's problems collaboratively, not for them. I also teach people how to adopt new technologies, including but not limited to AI and Agentic workflows, Infrastructure as Code (IaC) and Community and Culture-driven DevOps, from concept, to implimentation and operations or process mapping.
-My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( [AI sidekicks (agents and MCP) are the future...](https://github.com/abuxton/SKills)  )
+My life is a constant round of "could you, should you, and would you?" It's like "kiss, marry, or avoid" but for technology-related products.  Believer in the <https://wiki.c2.com/?ScottyFactor> and advocate of <https://dbad-license.org> Open Source Solutions. 
+
+> Never be afraid to ask for help, but try to learn to ask well <https://stackoverflow.com/help/how-to-ask> ( [AI sidekicks (agents and MCP) are the future...](https://github.com/abuxton/SKills)  )
 
 ### My User Manual
 
